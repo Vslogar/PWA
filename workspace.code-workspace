@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Vježbe_HTML"
+		},
+		{
+			"path": "..\\..\\4.1 - Git"
+		},
+		{
+			"path": "..\\..\\4.2 - Git"
+		},
+		{
+			"path": "..\\..\\4.3 - Git"
+		},
+		{
+			"path": "..\\..\\4.4 - GitHub"
+		},
+		{
+			"path": "..\\..\\4.5 - Grananje"
+		},
+		{
+			"path": "..\\..\\4.6 - Pull request"
+		},
+		{
+			"path": "..\\..\\Vježbe_CSS"
+		},
+		{
+			"path": "..\\..\\polaznici"
+		},
+		{
+			"path": "..\\..\\Vježbe_JS"
+		},
+		{
+			"path": "..\\..\\domaci"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Vježbe"
+	}
+}
